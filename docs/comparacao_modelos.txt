@@ -1,0 +1,2 @@
+TF-IDF + Regressão Logística: accuracy=0.804, F1 macro=0.662
+TF-IDF + SVM linear: accuracy=0.832, F1 macro=0.647
